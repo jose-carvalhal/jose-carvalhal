@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm José Augusto! 🇧🇷
 
-<!--
-**jose-carvalhal/jose-carvalhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Cybersecurity Analyst in Training | Cyber Defense & SOC Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+- 💻 Currently focused on **Threat Hunting, SIEM, and Log Analysis**.
+- 🛡️ Building hands-on security labs using **Wazuh, Sysmon, Snort, and Kali Linux**.
+- 🎓 Continuous learner focused on **Blue Team** operations and security certifications.
+- 📍 Based in **Brazil**.
+
+---
+
+## 🛠️ Tech Stack & Security Tools
+
+- **SIEM & Log Ingestion:** Wazuh | Sysmon | Windows Event Logs
+- **Networking & Analysis:** Wireshark | Nmap
+- **Operating Systems:** Linux (Kali, Ubuntu) | Windows Server
+- **Attack Simulation:** Hydra | Metasploit
+
+---
+
+## 📊 Featured Security Labs
+
+- 🚀 **[Wazuh + Sysmon Threat Hunting Lab](https://github.com/SEU-USUARIO/wazuh-sysmon-lab)**  
+  *Hands-on lab detecting RDP brute-force attacks by forwarding Windows Sysmon telemetry to Wazuh SIEM.*
+
+---
+
+## 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN)

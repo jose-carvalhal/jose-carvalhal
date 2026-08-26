@@ -14,8 +14,14 @@ Cybersecurity Analyst in Training | Cyber Defense & SOC Analyst
 
 - 💻 Currently focused on **Threat Hunting, SIEM, and Log Analysis**.
 - 🛡️ Building hands-on security labs using **Wazuh, Sysmon, Snort, and Kali Linux**.
-- 🎓 Continuous learner focused on **Blue Team** operations and security certifications.
+- 🎓 Continuous learner focused on **Blue Team** operations.
 - 📍 Based in **Brazil**.
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)**
 
 ---
 
@@ -38,10 +44,3 @@ Cybersecurity Analyst in Training | Cyber Defense & SOC Analyst
 ## 📬 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-bernardes-021887377/)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jose-carvalhal/jose-carvalhal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jose-carvalhal/jose-carvalhal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jose-carvalhal/jose-carvalhal/output/github-contribution-grid-snake.svg">
-</picture>

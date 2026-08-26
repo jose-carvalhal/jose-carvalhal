@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=%24+initiating_security_protocol...;%24+role%3A+SOC_Analyst_%7C_Blue_Team;%24+active_threat_hunting...;%24+monitoring_logs_with_Wazuh" alt="Typing SVG" />
+  </a>
+</p>
+
 # 👋 Hi, I'm José Augusto! 🇧🇷
 
 Cybersecurity Analyst in Training | Cyber Defense & SOC Analyst
